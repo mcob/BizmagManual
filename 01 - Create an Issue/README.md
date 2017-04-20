@@ -1,4 +1,4 @@
-#Overview#
+# Overview
 
 So the concept is that you'll have to create an issue every time the magazine goes to print.  You'll create your issue under a year node.  You may need to add a new year before you add the next issue.
 
